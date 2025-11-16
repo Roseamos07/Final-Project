@@ -14,7 +14,7 @@ This project was developed as the culminating assignment for my course. Its purp
 ## Installation
 
 1. Clone the project:
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/yourname/yourproject.git
 
 2. Navigate to the project:
    cd yourproject
